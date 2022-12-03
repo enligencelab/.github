@@ -1,4 +1,5 @@
-# Welcome to Enligence Lab
+# 欢迎来到立思实验室
+# Welcome to Enligence Laboratory
 
 <!--
 
